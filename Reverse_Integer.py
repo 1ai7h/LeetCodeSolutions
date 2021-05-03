@@ -1,3 +1,7 @@
+'''
+7. Reverse Integer
+by Laith Kamal
+'''
 class Solution(object):
     def reverse(self, x):
         """
