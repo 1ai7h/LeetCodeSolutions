@@ -1,3 +1,7 @@
+'''
+9. Palindrome Number
+by Laith Kamal
+'''
 class Solution(object):
     def isPalindrome(self, x):
         """
